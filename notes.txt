@@ -1,2 +1,3 @@
 This repository is for my STATS 21 assignment.
 I am learning how to use GitHub.
+Today I practiced editing a text file.
